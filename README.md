@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4479A1,100:F57C00&height=220&section=header&text=Banco%20de%20Dados&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Estudos%20%7C%20Diagramas%20%7C%20Scripts%20SQL&descSize=20&descAlignY=58" alt="Banco de Dados" width="100%" />
 
 </div>
-
 <br>
 
 > [!NOTE]
