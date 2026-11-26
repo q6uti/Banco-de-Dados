@@ -6,7 +6,7 @@
 <br>
 
 > [!NOTE]
-> Este repositório reúne os meus estudos de **Banco de Dados** no curso Técnico em Desenvolvimento de Sistemas: diagramas, modelagens e scripts SQL feitos ao longo das aulas.
+> Este repositório reúne os meus estudos de **Banco de Dados I** no curso Técnico em Desenvolvimento de Sistemas: diagramas, modelagens e scripts SQL feitos ao longo das aulas.
 
 <br>
 
